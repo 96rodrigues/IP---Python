@@ -1,2 +1,2 @@
-# IP---Python
-Índice Pluviométrico no Município de Quixeramobim
+# IP por Krigagem---Python
+Índice Pluviométrico por no Município de Quixeramobim
